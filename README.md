@@ -17,4 +17,4 @@ LUCAS SANTOS MONTEIRO
 MATHEUS PERES DO NASCIMENTO
 RUI SANTIAGO FARIA
 
-O nosso projeto tem como objetivo criar uma vitrine online, para que a empresa consiga fazer as divulgações dos seu projetos não ficando limitado apenas a redes sociais e conseguindo ter um portifólio atraente e expansivo
+O presente projeto tem como objetivo o desenvolvimento de um site institucional para a empresa Vitor de Melo Silva, especializada em serviços de montagem de móveis. A proposta busca oferecer uma presença digital sólida e eficiente, que apresente de forma clara a história da empresa, os serviços oferecidos, os diferenciais competitivos e os projetos já realizados, além de disponibilizar canais de contato
