@@ -1,0 +1,20 @@
+VITRINE VIRTUAL
+
+VSM MÓVEIS PLANEJADOS
+
+INFORMATICA PARA NEGÓCIOS FATEC MAUÁ
+
+INFORMATICA E NEGÓCIOS: PROF.PHD. BRUNO ZOLOTAREFF
+COMUNICAÇÃO E EXPRESSÃO: PROFª.ME. ANDREZA MARIA
+ADMINISTRAÇÃO GERAL: PROF.ME. JAIRO GONÇALVES.
+
+LINK:
+
+PARTICIPANTES:
+JOÃO VICTOR DOS SANTOS FERREIRA
+JORDANI NASCIMENTO ANDRADE
+LUCAS SANTOS MONTEIRO
+MATHEUS PERES DO NASCIMENTO
+RUI SANTIAGO FARIA
+
+O nosso projeto tem como objetivo criar uma vitrine online, para que a empresa consiga fazer as divulgações dos seu projetos não ficando limitado apenas a redes sociais e conseguindo ter um portifólio atraente e expansivo
