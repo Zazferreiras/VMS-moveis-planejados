@@ -8,7 +8,7 @@
 }
 
 .logo {
-    width: 150px;
+    width: 200px;
     height: auto;
 }
 
@@ -185,7 +185,7 @@ main {
 }
 
 .footer-vms .logo-footer {
-    width: 100px;
+    width: 160px;
     height: auto;
 }
 
@@ -305,4 +305,31 @@ main {
     width: 100%;
     height: 250px;
     object-fit: cover;
+}
+
+/* ====== Ajustes de imagens da aba SOBRE ====== */
+main .img-fluid {
+    width: 500px;
+    height: 600px;          
+    object-fit: cover;    
+    object-position: center; 
+    border-radius: 10px;    
+}
+
+.sobre-img {
+  width: 250px;           /* controla o tamanho horizontal */
+  height: 300px;          /* ajusta a altura proporcional */
+  object-fit: cover;      /* evita distorção */
+  object-position: center;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;         /* centraliza */
+}
+
+.historia-img {
+  width: 90%;              /* diminui levemente sem perder proporção */
+  border-radius: 12px;     /* arredonda as bordas */
+  display: block;
+  margin: 0 auto;          /* centraliza caso precise */
+  object-fit: cover;       /* mantém proporção da imagem */
 }
