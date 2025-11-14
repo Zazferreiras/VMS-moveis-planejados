@@ -8,7 +8,8 @@ INFORMATICA E NEGÓCIOS: PROF.PHD. BRUNO ZOLOTAREFF. <br>
 COMUNICAÇÃO E EXPRESSÃO: PROFª.ME. ANDREZA MARIA. <br> 
 ADMINISTRAÇÃO GERAL: PROF.ME. JAIRO GONÇALVES. <br>
 
-LINK:  https://zazferreiras.github.io/VMS-moveis-planejados/
+LINK DO SITE:  https://zazferreiras.github.io/VMS-moveis-planejados/
+LINK DA APRESENTAÇÃO: https://www.canva.com/design/DAG4YpWtggE/pv_UPuS7vrAcoCtsM0AVbA/edit?utm_content=DAG4YpWtggE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## PARTICIPANTES: 
 JOÃO VICTOR DOS SANTOS FERREIRA <br>
